@@ -1,6 +1,6 @@
-# trashy3
+# Trashy Flutter
 
-Trashy freakin 3
+Trashy Versuch 3
 
 ## Getting Started
 
