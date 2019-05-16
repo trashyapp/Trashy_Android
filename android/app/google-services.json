@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196035530444",
+    "firebase_url": "https://trashy-app.firebaseio.com",
+    "project_id": "trashy-app",
+    "storage_bucket": "trashy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196035530444:android:e643824c8f9215ff",
+        "android_client_info": {
+          "package_name": "com.trashy3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196035530444-l2d6at8re5hqcdq099q4ba8ab6k7j6pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIMnXIbd7gbtsvFZG-z1_Hmk3RnzKeBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196035530444-l2d6at8re5hqcdq099q4ba8ab6k7j6pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196035530444-2om6bjgnbkhuvnl4d12p6l2jfkli5vlt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trashy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

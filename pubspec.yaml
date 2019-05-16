@@ -1,0 +1,25 @@
+name: trashy
+description: Trashy Android
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  barcode_scan: 0.0.7
+  firebase_core: ^0.3.4
+  cloud_firestore: 0.9.13
+  http: ^0.12.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+     - assets/
