@@ -117,3 +117,4 @@ class _AddPageState extends State<AddPage> {
     this.getData(widget.barcode.trim());
   }
 }
+// cOOLE äNDERUNG
