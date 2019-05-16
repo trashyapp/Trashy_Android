@@ -101,7 +101,7 @@ class _AddPageState extends State<AddPage> {
     ));
   }
   Future<String> getData(barcode) async {
-    http.Response response = await http.get('https://barcodedata.glitch.me/?barcode=' + barcode);
+    http.Response response = await http.get('https://trashy.glitch.me/?barcode=' + barcode);
     this.setState(() {
       Map<String, dynamic> data = json.decode(response.body);
       if (data.containsKey('title')) {
@@ -117,4 +117,3 @@ class _AddPageState extends State<AddPage> {
     this.getData(widget.barcode.trim());
   }
 }
-// cOOLE äNDERUNG
